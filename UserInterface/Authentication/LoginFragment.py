@@ -15,7 +15,6 @@ class LoginFragment(UserControl):
                         label="Email",
                         border_color="white",
                         color="white",
-                        text_align=TextAlign.CENTER
                     ),
                     Text("Password"),
                     TextField(
